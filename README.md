@@ -1,35 +1,43 @@
 # Hi, I'm xheen908 👋
 
-### Software Engineer & Digitalization Architect
-I specialize in transforming complex business requirements into scalable, production-ready software. My focus lies in **Enterprise Resource Planning (ERP)**, **Logistics Optimization**, and **Compliance-driven Backend Systems**.
+### Systems Architect | Web3 & RWA Specialist
+I specialize in the **tokenization of Real World Assets (RWA)** and the digitalization of complex business ecosystems. My work bridges the gap between decentralized finance (DeFi) and established enterprise structures (ERP).
 
 ---
 
-## 🚀 Core Expertise & Focus
-* **Business Process Automation:** Deep experience in digitizing HR-Onboarding, Time Tracking, and Administrative Workflows.
-* **Logistics & Geo-Services:** Advanced implementation of **GPS Tracking** and **Intelligent Job Routing** algorithms for real-world fleet management.
-* **Financial & Compliance Logic:** Development of robust **Tax Engines** and legal-compliant data processing (DSGVO/GDPR).
-* **High-Performance Backends:** Scaling systems with Node.js/TypeScript and C++ for mission-critical sectors like Energy and Logistics.
+## 🏗 Key Focus: RWA & Infrastructure
+* **Asset Tokenization (OCPP):** Bringing Real World Assets onto the blockchain to enable liquidity, transparency, and fractional ownership.
+* **Enterprise Resource Planning (drp2):** Building the backbone for the German Mittelstand with modular **Tax Engines** and legal-compliant workflows.
+* **Point of Sale & Finance (openPOS):** Developing transaction-secure systems with high financial integrity and automated billing.
+* **Real-Time Visualization (Godot):** Creating high-end frontends and dashboards for complex data-streams and asset monitoring.
 
-## 🛠 Tech Stack
-* **Languages:** TypeScript, JavaScript, Python, C++, SQL.
-* **Frameworks:** Node.js, Angular, React, Express.
-* **Databases:** PostgreSQL, Redis, MongoDB.
-* **Tools:** Docker, REST APIs, Git, Agile Workflows.
-
----
-
-## 📂 Highlight Project: [drp2](https://github.com/xheen908/drp2)
-**Digital Resource Planning (DRP)** – A full-scale ERP suite designed for the German Mittelstand.
-* **Modular Tax Core:** Flexible engine for complex tax scenarios.
-* **Fleet Management:** Real-time routing and GPS integration.
-* **HR Suite:** Legal-compliant time tracking and employee management.
+## 🛠 Technical Arsenal
+* **Blockchain & Web3:** RWA Tokenization, Smart Contract Logic, DeFi Architectures.
+* **Backend & Systems:** C++, Node.js/TypeScript, Python, PostgreSQL.
+* **Specialized Logic:** Tax Compliance Engines, GPS-Routing, Real-Time Sync.
+* **Frontend:** Godot (Engine), Angular, React.
 
 ---
 
-## 📫 Let's Connect
-* **Location:** Duisburg / Düsseldorf Area (NRW), Germany
-* **Work:** Available for Freelance Projects (Remote/On-site)
-* **Focus:** I am looking for challenges in the Energy, Logistics, or Fintech sectors where architecture and reliability matter.
+## 📂 Featured Projects
 
-*"I don't just write code; I build tools that save time, reduce costs, and ensure legal compliance."*
+### [OCPP](https://github.com/xheen908/OCPP)
+**Real World Assets on Chain.** My core implementation for bringing physical assets into the Web3 ecosystem.
+
+### [drp2](https://github.com/xheen908/drp2)
+**Digital Resource Planning.** A full-scale ERP suite featuring a modular Tax-Core and logistics intelligence (GPS/Routing).
+
+### [openPOS](https://github.com/xheen908/openPOS)
+**Financial Integrity.** A robust Point of Sale system designed for reliable transaction handling and inventory management.
+
+---
+
+## 🎯 Business Impact
+I help companies and startups to:
+1. **Tokenize** physical assets for the next generation of finance.
+2. **Automate** complex business and tax logic to ensure compliance.
+3. **Build** high-performance backends where data integrity is mission-critical.
+
+📍 Based in **Duisburg/Düsseldorf**, Germany | 🌍 Available for 100% Remote Freelance Projects.
+
+*"Engineering the future of asset management and business automation."*
