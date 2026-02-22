@@ -21,7 +21,7 @@ My career is built on a "Proof of Work" philosophy. In a decade of high-stakes d
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | TypeScript, Node.js, C++, Python, SQL (PostgreSQL) |
-| **Mobile & Web** | Expo, React Native, Ionic React Native, Godot Engine (High-End Dashboards) |
+| **Mobile & Web** | Expo, React Native, Ionic React Native, Next.js, Godot Engine (High-End Dashboards) |
 | **Web3 & DeFi** | Smart Contract Logic, RWA Tokenization, OCPP Frameworks |
 | **Security** | E2E Encryption (E2EE), Tax-Compliance Engines, Secure POS Logic |
 | **Infrastructure** | RESTful Architectures, Cloud-native Backends, GPS-Routing Algorithms |
