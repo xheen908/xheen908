@@ -39,7 +39,7 @@ A mobile-first ecosystem where private E2EE communication meets a modular market
 My flagship implementation for tokenizing physical assets and integrating them into the DeFi ecosystem.
 * **Impact:** Enables fractional ownership and liquidity for physical assets via secure blockchain protocols.
 
-### 📊 [drp2](https://github.com/xheen908/drp2) — Digital Resource Planning
+### 📊 [DRP2](https://github.com/xheen908/drp2) — Digital Resource Planning
 A full-scale ERP suite designed for the German "Mittelstand", focusing on automation and legal certainty.
 * **Key Features:** Modular Tax-Core for automated compliance and real-time GPS logistics tracking.
 
