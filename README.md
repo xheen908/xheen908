@@ -47,9 +47,11 @@ Full implementation of the German Federal Ministry of Finance (BMF) tax calculat
 ### 🏗️ [V-Ledger](https://v-ledger.com) — Digital Product Pass Platform
 Blockchain-based DPP infrastructure on Base L2, using NXP NTAG 424 DNA NFC chips, W3C Verifiable Credentials, and IPFS.
 * Built autodidactically as founder and sole architect.
-* Live pharma demo: [pharma.v-ledger.com](https://pharma.v-ledger.com)
 
 ### 📋 [DRP2](https://github.com/xheen908/drp2) — Digital Resource Planning
+Full-scale ERP suite for the German Mittelstand with automated tax compliance and real-time logistics.
+
+### 📋 [EasyFisk.app](https://github.com/xheen908/EasyFisk.app) — Digital Resource Planning
 Full-scale ERP suite for the German Mittelstand with automated tax compliance and real-time logistics.
 
 ---
