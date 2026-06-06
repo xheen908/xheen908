@@ -48,7 +48,7 @@ Full implementation of the German Federal Ministry of Finance (BMF) tax calculat
 Blockchain-based DPP infrastructure on Base L2, using NXP NTAG 424 DNA NFC chips, W3C Verifiable Credentials, and IPFS.
 * Built autodidactically as founder and sole architect.
 
-### 📋 [EasyFisk.app](https://github.com/xheen908/EasyFisk.app) — Digital Point of Sale  
+### 🧾 [EasyFisk.app](https://github.com/xheen908/EasyFisk.app) — Digital Point of Sale  
 POS system with TSE, Tap to Pay & automatic ELSTER tax filing. All in one Crossplatform Android & iOS
 
 ### 📋 [DRP2](https://github.com/xheen908/drp2) — Digital Resource Planning
