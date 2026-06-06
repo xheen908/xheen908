@@ -51,8 +51,8 @@ Blockchain-based DPP infrastructure on Base L2, using NXP NTAG 424 DNA NFC chips
 ### 📋 [DRP2](https://github.com/xheen908/drp2) — Digital Resource Planning
 Full-scale ERP suite for the German Mittelstand with automated tax compliance and real-time logistics.
 
-### 📋 [EasyFisk.app](https://github.com/xheen908/EasyFisk.app) — Digital Resource Planning
-Full-scale ERP suite for the German Mittelstand with automated tax compliance and real-time logistics.
+### 📋 [EasyFisk.app](https://github.com/xheen908/EasyFisk.app) — Digital Point of Sale  
+POS system with TSE, Tap to Pay & automatic ELSTER tax filing. All in one Crossplatform Android & iOS
 
 ---
 
