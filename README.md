@@ -43,8 +43,8 @@ Blockchain-based DPP infrastructure on Base L2, using NXP NTAG 424 DNA NFC chips
 ### 🧾 EasyFisk.app — Digital Point of Sale
 POS system with TSE, Tap to Pay & automatic ELSTER tax filing. All in one Crossplatform Android & iOS. *(Currently nearing official market launch)*
 
-### 📋 DRP2 — Digital Resource Planning
-Full-scale ERP suite for the German Mittelstand with automated tax compliance and real-time logistics.
+### 📋 DRP2 — Microservice Architecture Prototype
+Conceptual ERP suite built as a foundational entry project to master distributed microservice architectures, real-time data flows, and tax compliance logic.
 
 ---
 
